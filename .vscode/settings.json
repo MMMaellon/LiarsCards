@@ -46,5 +46,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "template-package.sln"
+    "dotnet.defaultSolution": "LiarsCards.sln"
 }

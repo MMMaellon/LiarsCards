@@ -1,0 +1,25 @@
+{
+    "name": "com.mmmaellon.liars-cards",
+    "displayName": "LiarsCards",
+    "version": "0.0.0",
+    "unity": "2022.3",
+    "description": "",
+    "url": "https://github.com/MMMaellon/liars-cards.git",
+    "dependencies": {},
+    "gitDependencies": {},
+    "author": {
+        "name": "MMMaellon",
+        "email": "mmmaellon@gmail.com",
+        "url": "https://twitter.com/MMMaellon"
+    },
+    "vpmDependencies": {
+        "com.vrchat.worlds": "^3.5.2"
+    },
+    "samples": [
+        {
+            "displayName": "LiarsCards Example Scene",
+            "description": "An example scene showing off the capabilities of LiarsCards.",
+            "path": "Samples~/Example"
+        }
+    ]
+}
